@@ -1,6 +1,6 @@
 # Amazon Price Tracker
 
-Scrapes a product page for its current price and, if it drops below a target price, emails an alert with the product name, price, and link.
+Scrapes a product page for its current price and, if it drops below a target price, emails an alert with the product name, price and link
 
 ## Setup
 

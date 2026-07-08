@@ -1,4 +1,4 @@
-from price_scraper import ScrapePrice
+from scrape_price import ScrapePrice
 
 scraper = ScrapePrice()
 price = scraper.scrape_price()

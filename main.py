@@ -13,4 +13,4 @@ if price < TARGET_PRICE:
     notification_manager = NotificationManager()
     message = f"Subject:AMAZON PRICE ALERT!\n\n{product_full_name} is now {price}{TARGET_PRICE_CURRENCY}\n{TARGET_URL}"
     notification_manager.send_emails(message=message)
-print(price)
+    print(price)
